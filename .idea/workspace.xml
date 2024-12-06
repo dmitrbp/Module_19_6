@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="834da6c0-f637-482a-bade-dcc363a5eed1" name="Changes" comment="release 0" />
+    <list default="true" id="834da6c0-f637-482a-bade-dcc363a5eed1" name="Changes" comment="release 0">
+      <change afterPath="$PROJECT_DIR$/Step1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step2-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step2-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step3-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step3-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step3_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step3_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Step4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/post/app/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/post/app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/post/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/post/post/settings.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,22 +28,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;dmitrbp&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dmitrbp"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/dmitrbp/UrbanUniversity&quot;,
-    &quot;accountId&quot;: &quot;d2afe3b7-12aa-472f-b8a8-9d269e8619ad&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dmitrbp/UrbanUniversity",
+    "accountId": "d2afe3b7-12aa-472f-b8a8-9d269e8619ad"
   }
-}</component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 6
-}</component>
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
   <component name="ProjectId" id="2prBQxe5DUs1yg7B6aLvdxIBGrN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,12 +55,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/PythonProjects/UrbanUniversity/Module_19_5",
+    "last_opened_file_path": "E:/PythonProjects/UrbanUniversity/Module_19_4",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\PythonProjects\UrbanUniversity\Module_19_6" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Module_19_6" />

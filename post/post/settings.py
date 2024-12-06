@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'app',
 ]
 
 MIDDLEWARE = [
@@ -75,8 +76,12 @@ WSGI_APPLICATION = 'post.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'urban',  # Имя базы данных
+        'USER': 'postgres',  # Пользователь PostgreSQL
+        'PASSWORD': 'postgres',  # Пароль PostgreSQL
+        'HOST': 'VSRVSQL01',  # Адрес сервера базы данных
+        'PORT': '5432',  # Порт подключения
     }
 }
 
